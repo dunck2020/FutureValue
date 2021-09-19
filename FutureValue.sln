@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureValue", "FutureValue.csproj", "{A858FBB5-9090-48C0-842D-92FE0C12D3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A858FBB5-9090-48C0-842D-92FE0C12D3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A858FBB5-9090-48C0-842D-92FE0C12D3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A858FBB5-9090-48C0-842D-92FE0C12D3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A858FBB5-9090-48C0-842D-92FE0C12D3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D7DE285-3965-40C0-9DA5-B32AA6EEEED9}
+	EndGlobalSection
+EndGlobal
